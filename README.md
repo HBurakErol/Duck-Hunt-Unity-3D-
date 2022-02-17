@@ -1,2 +1,5 @@
 # Duck-Hunt-Unity-3D-
-Unity 3D kullanarak fps-shooter türünde amatör ve kısa zamanda yapılmış bir oyun  projesidir.
+
+It is an amateur game project in the fps-shooter type.
+Game world and objects created using Unity 3D,
+The backend codes of the objects are written using C#.
